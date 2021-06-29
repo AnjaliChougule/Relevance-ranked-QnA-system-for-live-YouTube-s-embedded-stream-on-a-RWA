@@ -6,13 +6,10 @@ def accessingLiveChat(link):
   print('Stream started')
   while chat.is_alive():
     try:
-      #print('----nside try block')
       data = chat.get()
       items = data.items
       for c in items:
         chat_list.append((str(f"{c.message}")+'?').lower())
-        #print(chat_list[::-1][0])
-        #fil_list.append(str(removeStopWords(chat_list[::-1][0])).lower())
         if count>20:
           makeClusters(chat_list)
         time.sleep(0)
