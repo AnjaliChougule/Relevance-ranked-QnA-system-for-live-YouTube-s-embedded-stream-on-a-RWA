@@ -62,14 +62,19 @@ Relevance ranking is to be provided for live chat of the live video stream. Rele
     Step 1:Download and install Visual Studio Code.
 	
     Step 2:Clone project repo to a file.
-    ![image](https://user-images.githubusercontent.com/80306572/124115571-9892d100-da8b-11eb-877a-aa5c5ca2c5bc.png)
-    ![image](https://user-images.githubusercontent.com/80306572/124115747-cd068d00-da8b-11eb-8efe-0b0ee4f59de2.png)
+    
+   ![image](https://user-images.githubusercontent.com/80306572/124115571-9892d100-da8b-11eb-877a-aa5c5ca2c5bc.png)
+   
+   
+   ![image](https://user-images.githubusercontent.com/80306572/124115747-cd068d00-da8b-11eb-8efe-0b0ee4f59de2.png)
 
 
     Step 3:Install packages which are in requirement.txt.
-    ![image](https://user-images.githubusercontent.com/80306572/124115867-ead3f200-da8b-11eb-8ecf-6bb30deebda4.png)
+    
+   ![image](https://user-images.githubusercontent.com/80306572/124115867-ead3f200-da8b-11eb-8ecf-6bb30deebda4.png)
 
 
     Step 4: Open the HTML file with Google Chrome
-    ![image](https://user-images.githubusercontent.com/80306572/124115910-fa533b00-da8b-11eb-8cfc-cec0d138045a.png)
+    
+   ![image](https://user-images.githubusercontent.com/80306572/124115910-fa533b00-da8b-11eb-8cfc-cec0d138045a.png)
 
