@@ -61,20 +61,24 @@ Relevance ranking is to be provided for live chat of the live video stream. Rele
 
     Step 1:Download and install Visual Studio Code.
 	
-    Step 2:Clone project repo to a file.
+    Step 2:Download and install higher version of xampp server.
+
+    Step 3:Create a Virtual Environment and activate Virtual Environment.
     
-   ![image](https://user-images.githubusercontent.com/80306572/124115571-9892d100-da8b-11eb-877a-aa5c5ca2c5bc.png)
-   
-   
-   ![image](https://user-images.githubusercontent.com/80306572/124115747-cd068d00-da8b-11eb-8efe-0b0ee4f59de2.png)
-
-
-    Step 3:Install packages which are in requirement.txt.
+    Step 4:Open directory where requirement.txt file located and run “pip install -r requirement.txt”. It will install all required packages for the project.
     
-   ![image](https://user-images.githubusercontent.com/80306572/124115867-ead3f200-da8b-11eb-8ecf-6bb30deebda4.png)
-
-
-    Step 4: Open the HTML file with Google Chrome
+    Step 5:Clone project repo to a file.
     
-   ![image](https://user-images.githubusercontent.com/80306572/124115910-fa533b00-da8b-11eb-8cfc-cec0d138045a.png)
+    Step 6:Copy the folder to xampp/htdocs and start xampp server.
+    
+    ![Pic1](https://user-images.githubusercontent.com/61876986/125165225-f63db200-e14a-11eb-9edc-b116ec8115d3.png)
+    
+    ![Pic2](https://user-images.githubusercontent.com/61876986/125165265-21280600-e14b-11eb-8be2-3754ead27310.png)
 
+    Step 7:Open the folder which contains the html and CSS files.
+    
+    ![Pic3](https://user-images.githubusercontent.com/61876986/125165333-59c7df80-e14b-11eb-951d-965bab95f863.png)
+    
+    ![Pic4](https://user-images.githubusercontent.com/61876986/125165340-651b0b00-e14b-11eb-9e61-a7c82f1de7cf.png)
+
+    Step 8:Go to browser and type localhost:8080/Relevance-ranked-QnA-system-for-live-YouTube-s- embedded-stream-on-a-RWA.-main
