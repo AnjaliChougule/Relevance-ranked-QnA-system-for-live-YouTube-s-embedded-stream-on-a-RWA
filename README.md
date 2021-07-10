@@ -71,14 +71,14 @@ Relevance ranking is to be provided for live chat of the live video stream. Rele
     
     Step 6:Copy the folder to xampp/htdocs and start xampp server.
     
-    ![Pic1](https://user-images.githubusercontent.com/61876986/125165225-f63db200-e14a-11eb-9edc-b116ec8115d3.png)
+    ![image](https://user-images.githubusercontent.com/61876986/125165225-f63db200-e14a-11eb-9edc-b116ec8115d3.png)
     
-    ![Pic2](https://user-images.githubusercontent.com/61876986/125165265-21280600-e14b-11eb-8be2-3754ead27310.png)
+    ![image](https://user-images.githubusercontent.com/61876986/125165265-21280600-e14b-11eb-8be2-3754ead27310.png)
 
     Step 7:Open the folder which contains the html and CSS files.
     
-    ![Pic3](https://user-images.githubusercontent.com/61876986/125165333-59c7df80-e14b-11eb-951d-965bab95f863.png)
+    ![image](https://user-images.githubusercontent.com/61876986/125165333-59c7df80-e14b-11eb-951d-965bab95f863.png)
     
-    ![Pic4](https://user-images.githubusercontent.com/61876986/125165340-651b0b00-e14b-11eb-9e61-a7c82f1de7cf.png)
+    ![image](https://user-images.githubusercontent.com/61876986/125165340-651b0b00-e14b-11eb-9e61-a7c82f1de7cf.png)
 
     Step 8:Go to browser and type localhost:8080/Relevance-ranked-QnA-system-for-live-YouTube-s- embedded-stream-on-a-RWA.-main
